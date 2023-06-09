@@ -1,31 +1,25 @@
-# WEBPACK
+<!-- Título -->
+# Desfazendo Commits
 
-***Aulas:***
+***Conteúdo da Aula:***
 
-- [ ] O que é Webpack?
-- [ ] Instalação e uso Simples.
-- [ ] Arquivo de Configuração.
-- [ ] Carregando Arquivos CSS.
-- [ ] Carregando Imagens.
-- [ ] Exemplo — Criando um Componente.
-- [ ] Usando Sass com Webpack.
-- [ ] Output Organizado.
-- [ ] Watcher.
-- [ ] Mútliplas Entradas e Saídas.
-- [ ] Refatorando Output.
+* Comandos utilizado:
+  * git log;
+  * git revert hash(id do commit).
 
-## INFORMAÇÕES
+<!-- Informações -->
+## &#8505; Informações
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Devsgeeknerd.webpack-front-end-zp "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcla-des-com-com-git-fun-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=social "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/webpack-front-end-zp?style=social "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cla-des-com-com-git-fun-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/webpack-front-end-zp?style=social "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cla-des-com-com-git-fun-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/webpack-front-end-zp?style=social "Total de Forks")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cla-des-com-com-git-fun-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/webpack-front-end-zp?style=social "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cla-des-com-com-git-fun-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/webpack-front-end-zp?style=social "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cla-des-com-com-git-fun-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
